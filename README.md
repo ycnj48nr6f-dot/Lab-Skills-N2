@@ -1,14 +1,11 @@
-# Nursing Lab Final — Coverage Audit Edition
+# Nursing Lab Final Game — Deep Mastery
 
-GitHub Pages-ready static study game.
+Packet Mastery and Check-Off are intentionally separated.
 
-## What changed
-- 8 separate packet modules
-- 40 questions per module (320 total)
-- Repetitive reinforcement filler replaced with distinct topic coverage
-- IV/medications module now explicitly distinguishes enteral vs parenteral nutrition, PPN vs TPN, central vs peripheral nutrition access, primary vs IVPB, PCA safety, and fluid tonicity
-- Drag-and-drop / move-button check-off sequencing remains separate from Packet Mastery
-- Packet-derived vs supplemental nursing/NCLEX content is labeled
-- PIV tube-color items remain marked to verify with instructor/facility where the packet leaves the answers blank
+- Packet Mastery: knowledge/application only; no checklist-order questions.
+- Check-Off Challenge: drag-and-drop procedural sequencing, preserved by module.
+- Answer choices are shuffled every quiz attempt so the correct letter changes.
+- Mixed Final: 75 knowledge questions across all modules.
+- PIV tube-top worksheet: the uploaded packet leaves the answer key blank; no instructor key is invented.
 
-Upload `index.html`, `.nojekyll`, and this README to the existing GitHub Pages repository to replace the prior version while keeping the same site URL.
+Question counts: {"blood": 42, "chest": 45, "cvad": 41, "suction": 32, "trach": 35, "piv": 42, "ivmeds": 63, "newborn": 67}
