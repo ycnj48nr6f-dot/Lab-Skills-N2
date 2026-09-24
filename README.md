@@ -1,15 +1,16 @@
-# Nursing Lab Final — Skills Shift
+# Nursing Lab Final — Packet Mastery
 
-Static study game built from the uploaded Fall 2026 lab packets.
+GitHub Pages-ready static study game.
 
-## GitHub Pages
-1. Create a new GitHub repository.
-2. Upload `index.html` and this `README.md` to the repository root.
-3. In **Settings → Pages**, choose **Deploy from a branch**, branch **main**, folder **/(root)**.
-4. Save. GitHub will provide the site URL.
+## What changed
+- 8 separate lab modules
+- 40 Packet Mastery questions per module (320 total)
+- 50-question randomized Mixed Final
+- Separate drag-and-drop Check-Off Challenge
+- Check-offs divided into smaller logical sections
+- Up/down controls included for touch devices
+- Critical safety/check-off content is flagged
+- Supplemental/packet-blank content remains source-labeled
 
-No build step or dependencies are required.
-
-### Content labels
-- **Packet**: grounded in the uploaded course packet.
-- **Supplemental**: added nursing/NCLEX context or an answer to an intentionally blank worksheet. Facility/instructor policy takes precedence.
+## Publish
+Upload `index.html`, `README.md`, and `.nojekyll` to the same GitHub repository to update the existing GitHub Pages site.
